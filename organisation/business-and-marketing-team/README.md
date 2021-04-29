@@ -15,7 +15,7 @@ The business & marketing team are responsible for developing and implementing th
 
 | Role | Name |
 | :--- | :--- |
-| [Brand & Media Lead](brand-and-media-director.md) | Tom Dixon |
+| [Lead Designer](lead-designer.md) | Tom Dixon |
 | [Business Development Lead](business-development-lead.md) | Madalin Foghis |
 
 

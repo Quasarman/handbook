@@ -43,8 +43,7 @@ The Board of Trustees is the collection of individuals that are responsible for 
     <tr>
       <td style="text-align:left">
         <p>Trustee,</p>
-        <p><a href="../business-and-marketing-team/brand-and-media-director.md">Brand &amp; Media Lead</a>
-        </p>
+        <p>Lead Designer</p>
       </td>
       <td style="text-align:left">Tom Dixon</td>
     </tr>

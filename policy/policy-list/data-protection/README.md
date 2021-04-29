@@ -124,7 +124,7 @@ A significant proportion of our marketing activities involve the collection, sto
 * Review, draft and approve any relevant data security statements that must accompany emails, other messages or applicable marketing collateral.
 
 {% hint style="info" %}
-Conex's Marketing Manager is the [Brand & Media Director](../../../organisation/business-and-marketing-team/brand-and-media-director.md)
+Conex's Marketing Manager is the [Brand & Media Director](../../../organisation/business-and-marketing-team/lead-designer.md)
 {% endhint %}
 
 ## Our data security policies

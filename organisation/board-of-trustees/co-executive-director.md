@@ -18,7 +18,7 @@
 | Name |
 | :--- |
 | [Operations Director](../operations-team/operations-director.md) |
-| [Brand & Media Lead](../business-and-marketing-team/brand-and-media-director.md) |
+| [Brand & Media Lead](../business-and-marketing-team/lead-designer.md) |
 | [Business Development Lead](../business-and-marketing-team/business-development-lead.md) |
 | [Propulsion Lead](../research-teams/propulsion-team/propulsion-lead.md) |
 

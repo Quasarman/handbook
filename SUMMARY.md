@@ -16,6 +16,7 @@
 
 ## Members Guide
 
+* [Online Learning](members-guide/online-learning.md)
 * [Style Guide](members-guide/standards/README.md)
   * [Clear & Direct Writing](members-guide/standards/clear-and-direct-language.md)
   * [Inclusive Language](members-guide/standards/inclusive-language.md)
@@ -42,7 +43,7 @@
 * [Operations Team](organisation/operations-team/README.md)
   * [Operations Director](organisation/operations-team/operations-director.md)
 * [Business & Marketing Team](organisation/business-and-marketing-team/README.md)
-  * [Brand & Media Director](organisation/business-and-marketing-team/brand-and-media-director.md)
+  * [Lead Designer](organisation/business-and-marketing-team/lead-designer.md)
   * [Business Development Lead](organisation/business-and-marketing-team/business-development-lead.md)
 * [Research Teams](organisation/research-teams/README.md)
   * [Astrodynamics Team](organisation/research-teams/astrodynamics-team.md)
