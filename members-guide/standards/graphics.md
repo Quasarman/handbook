@@ -1,4 +1,0 @@
-# Graphics
-
-Tom's stuff
-

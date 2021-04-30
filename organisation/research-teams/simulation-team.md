@@ -23,7 +23,7 @@ The simulation team utilises a variety of software tools to gather data via simu
       <td style="text-align:left">
         <p><b>Simulation Lead,</b>
         </p>
-        <p>&lt;b&gt;&lt;/b&gt;<a href="../board-of-trustees/co-executive-director.md"><b>Co-Executive Director</b></a>&lt;b&gt;&lt;/b&gt;</p>
+        <p>&lt;b&gt;&lt;/b&gt;<a href="../organisational-teams/board-of-trustees/co-executive-director.md"><b>Co-Executive Director</b></a>&lt;b&gt;&lt;/b&gt;</p>
       </td>
       <td style="text-align:left"><b>James McKevitt</b>
       </td>

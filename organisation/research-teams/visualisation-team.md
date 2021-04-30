@@ -13,7 +13,7 @@ The visualisation team produce CAD models and other visualisations for the entir
 
 | Role | Name |
 | :--- | :--- |
-| \*\*\*\*[**Brand & Media Lead**](../business-and-marketing-team/lead-designer.md)\*\*\*\* | **Tom Dixon** |
+| \*\*\*\*[**Brand & Media Lead**](../organisational-teams/business-and-marketing-team/lead-designer.md)\*\*\*\* | **Tom Dixon** |
 
 
 

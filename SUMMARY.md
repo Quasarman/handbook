@@ -14,21 +14,17 @@
     * [Confidentiality](policy/policy-list/data-protection/confidentiality.md)
     * [Data Classification](policy/policy-list/data-protection/data-classification.md)
 
-## Members Guide
+## Style & Standards <a id="standards"></a>
 
-* [Online Learning](members-guide/online-learning.md)
-* [Style Guide](members-guide/standards/README.md)
-  * [Clear & Direct Writing](members-guide/standards/clear-and-direct-language.md)
-  * [Inclusive Language](members-guide/standards/inclusive-language.md)
-  * [Text](members-guide/standards/text.md)
-  * [Graphics](members-guide/standards/graphics.md)
-* [Partnerships](members-guide/partnerships/README.md)
-  * [Procurement](members-guide/partnerships/procurement.md)
+* [Clear & Direct Writing](standards/clear-and-direct-language.md)
+* [Inclusive Language](standards/inclusive-language.md)
+* [Graphs & Charts](standards/graphics.md)
 
 ## Getting Things Done
 
 * [Decision Making](getting-things-done/decision-making.md)
 * [Meetings](getting-things-done/meetings.md)
+* [Online Learning](getting-things-done/online-learning.md)
 
 ## Google Workspace
 
@@ -38,13 +34,14 @@
 ## Organisation
 
 * [Mission & Values](organisation/mission-and-values.md)
-* [Board of Trustees](organisation/board-of-trustees/README.md)
-  * [Co-Executive Director](organisation/board-of-trustees/co-executive-director.md)
-* [Operations Team](organisation/operations-team/README.md)
-  * [Operations Director](organisation/operations-team/operations-director.md)
-* [Business & Marketing Team](organisation/business-and-marketing-team/README.md)
-  * [Lead Designer](organisation/business-and-marketing-team/lead-designer.md)
-  * [Business Development Lead](organisation/business-and-marketing-team/business-development-lead.md)
+* [Organisational Teams](organisation/organisational-teams/README.md)
+  * [Board of Trustees](organisation/organisational-teams/board-of-trustees/README.md)
+    * [Co-Executive Director](organisation/organisational-teams/board-of-trustees/co-executive-director.md)
+  * [Operations Team](organisation/organisational-teams/operations-team/README.md)
+    * [Operations Director](organisation/organisational-teams/operations-team/operations-director.md)
+  * [Business & Marketing Team](organisation/organisational-teams/business-and-marketing-team/README.md)
+    * [Lead Designer](organisation/organisational-teams/business-and-marketing-team/lead-designer.md)
+    * [Business Development Lead](organisation/organisational-teams/business-and-marketing-team/business-development-lead.md)
 * [Research Teams](organisation/research-teams/README.md)
   * [Astrodynamics Team](organisation/research-teams/astrodynamics-team.md)
   * [Data Science Team](organisation/research-teams/data-science-team.md)
@@ -53,6 +50,8 @@
     * [Propulsion Lead](organisation/research-teams/propulsion-team/propulsion-lead.md)
   * [Simulation Team](organisation/research-teams/simulation-team.md)
   * [Visualisation Team](organisation/research-teams/visualisation-team.md)
+* [Partnerships](organisation/partnerships/README.md)
+  * [Procurement](organisation/partnerships/procurement.md)
 
 ## Technology
 

@@ -1,6 +1,6 @@
 # Mission & Values
 
-Our official mission statement, as outlined in our Chartitable Incorporated Organisation \(CIO\) constitution, is **"To advance the education and personal development of early career professionals through engagement in academic research in the space field"**. 
+Our official mission statement, as outlined in our Chartitable Incorporated Organisation \(CIO\) constitution, is **"To advance the education and personal development of early career professionals through engagement in academic research in the space field"**.
 
 Making a mission statement is easy, but making sure that everything we do drives us closer to achieving that mission is much harder. We've established three principle values to help guide us in our mission:
 
@@ -35,6 +35,4 @@ How we'll achieve this:
 * Maintain public documentation, such as the Conex Handbook.
 * Be honest with team members, and involve them in decision making.
 * Ensure accountability is upheld at every level, and in every decision.
-
-### 
 

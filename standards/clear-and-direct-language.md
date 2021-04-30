@@ -2,9 +2,11 @@
 
 We want everyone to benefit from Conex's research, from young space-enthusiasts to academics leading the field. To do this we must use clear and direct language where possible, and only use specialist-terminology when suitable for the target audience.
 
-{% hint style="info" %}
-These are just guidelines, use your own judgement when writing.
-{% endhint %}
+## Language
+
+British English should always be used, this makes it easier for those who don't have English as their first language.
+
+Refer to the Cambridge Dictionary if in doubt: [dictionary.cambridge.org](https://dictionary.cambridge.org/)
 
 ## Easy reading
 

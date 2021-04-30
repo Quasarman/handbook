@@ -6,7 +6,7 @@
 
 **Responsible for:** [Propulsion Team](./)
 
-**Reports to:** [Co-Executive Directors](../../board-of-trustees/co-executive-director.md)
+**Reports to:** [Co-Executive Directors](../../organisational-teams/board-of-trustees/co-executive-director.md)
 
 ## Responsibilities
 

@@ -2,9 +2,9 @@
 
 ## Overview
 
-The Board of Trustees is the collection of individuals that are responsible for leading and managing the organisation as part of our Charitable Incorporated Organisation structure. They are responsible for defining the long-term goals of the organisation, holding the leadership team accountable, and ensuring that everything we do aligns with the [Conex Values](../mission-and-values.md).
+The Board of Trustees is the collection of individuals that are responsible for leading and managing the organisation as part of our Charitable Incorporated Organisation structure. They are responsible for defining the long-term goals of the organisation, holding the leadership team accountable, and ensuring that everything we do aligns with the [Conex Values](../../mission-and-values.md).
 
-## Current Members
+## Current Trustees
 
 <table>
   <thead>
@@ -43,14 +43,15 @@ The Board of Trustees is the collection of individuals that are responsible for 
     <tr>
       <td style="text-align:left">
         <p>Trustee,</p>
-        <p>Lead Designer</p>
+        <p><a href="../business-and-marketing-team/lead-designer.md">Lead Designer</a>
+        </p>
       </td>
       <td style="text-align:left">Tom Dixon</td>
     </tr>
     <tr>
       <td style="text-align:left">
         <p>Trustee,</p>
-        <p><a href="../research-teams/propulsion-team/propulsion-lead.md">Propulsion Lead</a>
+        <p><a href="../../research-teams/propulsion-team/propulsion-lead.md">Propulsion Lead</a>
         </p>
       </td>
       <td style="text-align:left">Shayne Beegadhur</td>

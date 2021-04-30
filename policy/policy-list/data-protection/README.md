@@ -112,7 +112,7 @@ GDPR stipulates our organisation must appoint a Data Protection Officer. It is o
 * Carry out regular checks, audits and scans to ensure security hardware and security software are fully functional and optimised to manage and mitigate data security risks.
 
 {% hint style="info" %}
-Conex's Data Protection Officer is the [Operations Director](../../../organisation/operations-team/operations-director.md)
+Conex's Data Protection Officer is the [Operations Director](../../../organisation/organisational-teams/operations-team/operations-director.md)
 {% endhint %}
 
 ### Marketing Manager
@@ -124,7 +124,7 @@ A significant proportion of our marketing activities involve the collection, sto
 * Review, draft and approve any relevant data security statements that must accompany emails, other messages or applicable marketing collateral.
 
 {% hint style="info" %}
-Conex's Marketing Manager is the [Brand & Media Director](../../../organisation/business-and-marketing-team/lead-designer.md)
+Conex's Marketing Manager is the [Brand & Media Director](../../../organisation/organisational-teams/business-and-marketing-team/lead-designer.md)
 {% endhint %}
 
 ## Our data security policies
