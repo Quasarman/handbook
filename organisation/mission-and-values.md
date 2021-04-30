@@ -21,7 +21,7 @@ We want to create a working environment where everyone feels comfortable contrib
 How we'll achieve this:
 
 * Utilise technology to provide a quality environment for remote collaboration.
-* Embrace asynchronous communication techniques.
+* Embrace asynchronous communication.
 * Make sure everyone has access to the information they need to be productive.
 
 ## 🔍Transparency🔎
