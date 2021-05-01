@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Conex Handbook](README.md)
+* [Editing the Handbook](editing-the-handbook.md)
 
 ## Policies <a id="policy"></a>
 
@@ -24,7 +25,7 @@
 
 * [Decision Making](getting-things-done/decision-making.md)
 * [Meetings](getting-things-done/meetings.md)
-* [Online Learning](getting-things-done/online-learning.md)
+* [Learning Resources](getting-things-done/learning-resources.md)
 
 ## Google Workspace
 
@@ -39,7 +40,7 @@
     * [Co-Executive Director](organisation/organisational-teams/board-of-trustees/co-executive-director.md)
   * [Operations Team](organisation/organisational-teams/operations-team/README.md)
     * [Operations Director](organisation/organisational-teams/operations-team/operations-director.md)
-  * [Business & Marketing Team](organisation/organisational-teams/business-and-marketing-team/README.md)
+  * [Business & Media Team](organisation/organisational-teams/business-and-marketing-team/README.md)
     * [Lead Designer](organisation/organisational-teams/business-and-marketing-team/lead-designer.md)
     * [Business Development Lead](organisation/organisational-teams/business-and-marketing-team/business-development-lead.md)
 * [Research Teams](organisation/research-teams/README.md)

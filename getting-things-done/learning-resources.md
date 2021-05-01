@@ -1,4 +1,4 @@
-# Online Learning
+# Learning Resources
 
 ## Applied Digital Skills \(Google\)
 

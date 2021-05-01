@@ -10,7 +10,14 @@ The operations team oversee the day-to-day functions of the organisation, includ
 * IT Systems
 * Human Resources
 
-## Team Members
+## Contact Information
+
+Almost all IT/HR queries should be submitted using the [Support Form](https://link.conexresearch.com/support), please check this first.
+
+**Email address:** [ops@conexresearch.com](mailto:ops@conexresearch.com) _\(Internal Only\)_  
+**Discord tag:** @Ops
+
+## Responsible Individuals
 
 | Role | Name |
 | :--- | :--- |

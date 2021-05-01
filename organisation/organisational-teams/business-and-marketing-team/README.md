@@ -1,4 +1,4 @@
-# Business & Marketing Team
+# Business & Media Team
 
 ## Overview
 
@@ -7,11 +7,21 @@ The business & marketing team are responsible for developing and implementing th
 ## Key Responsibilities
 
 * Funding
-* Business Strategy
+* Business strategy
 * Marketing
-* Media Relations
+* Media relations
+* Graphic design
 
-## Team Members
+## Contact Information
+
+Press related queries should be submitted using the [Support Form](https://link.conexresearch.com/support), please check this first.
+
+| Format | Details |
+| :--- | :--- |
+| Email \(Business\) | business@conexresearch.com |
+| Email \(Marketing/Design\) | media@conexresearch.com |
+
+## Responsible Individuals
 
 | Role | Name |
 | :--- | :--- |

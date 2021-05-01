@@ -4,7 +4,7 @@
 
 The Board of Trustees is the collection of individuals that are responsible for leading and managing the organisation as part of our Charitable Incorporated Organisation structure. They are responsible for defining the long-term goals of the organisation, holding the leadership team accountable, and ensuring that everything we do aligns with the [Conex Values](../../mission-and-values.md).
 
-## Current Trustees
+## Responsible Individuals
 
 <table>
   <thead>
