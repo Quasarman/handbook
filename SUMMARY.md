@@ -2,6 +2,8 @@
 
 * [Conex Handbook](README.md)
 * [Editing the Handbook](editing-the-handbook.md)
+* [Transparency](transparency.md)
+* [AutoDelete](autodelete.md)
 
 ## Policies <a id="policy"></a>
 
@@ -41,16 +43,14 @@
   * [Business & Media Team](organisation/organisational-teams/business-and-marketing-team/README.md)
     * [Lead Designer](organisation/organisational-teams/business-and-marketing-team/lead-designer.md)
     * [Business Development Lead](organisation/organisational-teams/business-and-marketing-team/business-development-lead.md)
-* [Research Teams](organisation/research-teams/README.md)
-  * [Astrodynamics Team](organisation/research-teams/astrodynamics-team.md)
-  * [Data Science Team](organisation/research-teams/data-science-team.md)
-  * [Planetary Science Team](organisation/research-teams/planetary-science-team.md)
-  * [Propulsion Team](organisation/research-teams/propulsion-team/README.md)
-    * [Propulsion Lead](organisation/research-teams/propulsion-team/propulsion-lead.md)
-  * [Simulation Team](organisation/research-teams/simulation-team.md)
-  * [Visualisation Team](organisation/research-teams/visualisation-team.md)
+* [Research Divisions](organisation/divisions/README.md)
+  * [Digital Systems Division](organisation/divisions/digital-systems.md)
+  * [Engineering Division](organisation/divisions/engineering.md)
+  * [Science Division](organisation/divisions/science.md)
+  * [Systems Engineering](organisation/divisions/syseng.md)
 * [Partnerships](organisation/partnerships/README.md)
   * [Procurement](organisation/partnerships/procurement.md)
+* [Team Lead](organisation/propulsion-lead.md)
 
 ## Technology
 

@@ -2,7 +2,7 @@
 
 ## Make an edit
 
-1. Find the page you want to edit in the [handbook repository](https://github.com/Conex-Research/handbook).
+1. Click the 'Edit on GitHub' button on the right of each page.
 2. Click the pencil icon in the top right of the content.
 3. Make your edits, use the 'Preview Changes' tab to check your markdown formatting.
 4. Add a title and description to your change at the bottom of the page, click 'Commit Changes'.

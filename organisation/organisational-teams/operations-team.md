@@ -29,6 +29,9 @@ The operations team oversee the day-to-day functions of the organisation, includ
 
 Almost all operations related queries should be submitted using the [Support Form](https://link.conexresearch.com/support), please check this first.
 
+**Email address:** [ops@conexresearch.com](mailto:ops@conexresearch.com)  
+**Discord tag:** @Operations
+
 | Type | Usage | Details |
 | :--- | :--- | :--- |
 | **Email** | Only email if the [Support Form](https://link.conexresearch.com/support) is unable to help. | [ops@conexresearch.com](mailto:ops@conexresearch.com) |
