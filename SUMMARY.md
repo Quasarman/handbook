@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Conex Handbook](README.md)
-* [Editing the Handbook](editing-the-handbook.md)
 * [Transparency](transparency.md)
 * [AutoDelete](autodelete.md)
 
@@ -36,7 +35,9 @@
 
 ## Organisation
 
-* [Mission & Values](organisation/mission-and-values.md)
+* [Mission & Values](organisation/mission-and-values/README.md)
+  * [Transparency](organisation/mission-and-values/transparency.md)
+  * [Leadership Values](organisation/mission-and-values/leadership-values.md)
 * [Organisational Teams](organisation/organisational-teams/README.md)
   * [Board of Trustees](organisation/organisational-teams/board-of-trustees.md)
   * [Operations Team](organisation/organisational-teams/operations-team.md)

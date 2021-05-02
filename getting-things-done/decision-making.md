@@ -2,7 +2,7 @@
 
 It's [estimated ](https://go.roberts.edu/leadingedge/the-great-choices-of-strategic-leaders)that the average adult makes up to 35,000 decisions every day!🤯 For the decisions you make regarding your work at Conex, we've outlined some guidance below to help you make good ones:
 
-1.  Follow [our values](../organisation/mission-and-values.md) - If it goes againt our values it's likely a bad decision. 🙈 
+1.  Follow [our values](../organisation/mission-and-values/) - If it goes againt our values it's likely a bad decision. 🙈 
 2.  [Can I decide that?](decision-making.md#can-i-decide-that) - Some important decisions require approval. ☑ 
 3.  Look at the data - Use accurate and relevant data to help you decide. 📊 
 4.  Get a second opinion - Ask someone else what they would do. 🙋 
@@ -57,7 +57,7 @@ Here's a handy table to show what topics each team can help with:
         <ul>
           <li>Partnerships</li>
           <li>Contracts &amp; Agreements</li>
-          <li><a href="../organisation/mission-and-values.md">Mission &amp; Values</a>
+          <li><a href="../organisation/mission-and-values/">Mission &amp; Values</a>
           </li>
         </ul>
       </td>

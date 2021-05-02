@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Board of Trustees is the collection of individuals that are responsible for leading and managing the organisation as part of our Charitable Incorporated Organisation structure. They are responsible for defining the long-term goals of the organisation, holding the leadership team accountable, and ensuring that everything we do aligns with the [Conex Values](../mission-and-values.md).
+The Board of Trustees is the collection of individuals that are responsible for leading and managing the organisation as part of our Charitable Incorporated Organisation structure. They are responsible for defining the long-term goals of the organisation, holding the leadership team accountable, and ensuring that everything we do aligns with the [Conex Values](../mission-and-values/).
 
 
 
@@ -36,7 +36,7 @@ The Board of Trustees is the collection of individuals that are responsible for 
 
 ### Trustees
 
-These are individuals selected to review decisions made by the organisation to ensure they comply with our constitution and align with our [mission & values](../mission-and-values.md).
+These are individuals selected to review decisions made by the organisation to ensure they comply with our constitution and align with our [mission & values](../mission-and-values/).
 
 <table>
   <thead>
