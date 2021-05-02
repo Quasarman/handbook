@@ -6,8 +6,6 @@ Our official mission statement, as outlined in our Chartitable Incorporated Orga
 
 Making a mission statement is easy, but making sure that everything we do drives us closer to achieving that mission is much harder. We've established three principle values to help guide us in our mission:
 
-## 👊🏽 Diversity & Inclusion 🏳🌈 
-
 ## 🤝 Collaboration 🤝
 
 We want to create a working environment where everyone feels comfortable contributing, and we embrace remote-first working practices to allow everyone to be productive.
