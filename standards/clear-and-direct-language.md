@@ -1,5 +1,7 @@
 # Clear & Direct Writing
 
+## Introduction
+
 We want everyone to benefit from Conex's research, from young space-enthusiasts to academics leading the field. To do this we must use clear and direct language where possible, and only use specialist-terminology when suitable for the target audience.
 
 ## Language

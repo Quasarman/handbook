@@ -1,5 +1,7 @@
 # Decision Making
 
+## Introduction
+
 It's [estimated ](https://go.roberts.edu/leadingedge/the-great-choices-of-strategic-leaders)that the average adult makes up to 35,000 decisions every day!🤯 For the decisions you make regarding your work at Conex, we've outlined some guidance below to help you make good ones:
 
 1.  Follow [our values](../organisation/mission-and-values/) - If it goes againt our values it's likely a bad decision. 🙈 
@@ -69,21 +71,22 @@ Here's a handy table to show what topics each team can help with:
 
 Most of the time the answer is yes - we try to apply [consesus decision-making](https://www.seedsforchange.org.uk/consensus) where possible, a method that leaves decision making to teams rather than certain individuals. A big part of personal development is gaining the confidence to make your own decisions, and we encourage this.
 
-For some key decisions that could effect the entire organisation however, we have special policies and procedures to keep people safe.
+For some key decisions that could effect the entire organisation however, we have special policies and procedures to keep us protected.
 
 ### Financial Decisions
 
-Any decisions relating to finance must be approved by the [Board of Trustees](../organisation/organisational-teams/board-of-trustees.md), questions relating to finance however can be directed to the [Business & Marketing Team](../organisation/organisational-teams/business-and-marketing-team/).
+Any decisions relating to finance must be approved by the [Board of Trustees](../organisation/organisational-teams/board-of-trustees.md), questions relating to finance however can be directed to the [Business & Marketing Team](../organisation/organisational-teams/business-and-marketing-team.md).
 
 Examples of financial decisions are:
 
 * Spending and procurement.
 * Sale/transfer of assets.
 * Charging for products/services.
+* Sponsorship/partnership procurement.
 
 ### Press & Information
 
-Any information release or press communication must be approved by the [Business & Marketing Team](../organisation/organisational-teams/business-and-marketing-team/).
+Any information release or press communication must be approved by the [Business & Marketing Team](../organisation/organisational-teams/business-and-marketing-team.md).
 
 Examples of press decisions are:
 

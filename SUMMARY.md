@@ -1,8 +1,6 @@
 # Table of contents
 
 * [Conex Handbook](README.md)
-* [Transparency](transparency.md)
-* [AutoDelete](autodelete.md)
 
 ## Policies <a id="policy"></a>
 
@@ -41,9 +39,7 @@
 * [Organisational Teams](organisation/organisational-teams/README.md)
   * [Board of Trustees](organisation/organisational-teams/board-of-trustees.md)
   * [Operations Team](organisation/organisational-teams/operations-team.md)
-  * [Business & Media Team](organisation/organisational-teams/business-and-marketing-team/README.md)
-    * [Lead Designer](organisation/organisational-teams/business-and-marketing-team/lead-designer.md)
-    * [Business Development Lead](organisation/organisational-teams/business-and-marketing-team/business-development-lead.md)
+  * [Business & Media Team](organisation/organisational-teams/business-and-marketing-team.md)
 * [Research Divisions](organisation/divisions/README.md)
   * [Digital Systems Division](organisation/divisions/digital-systems.md)
   * [Engineering Division](organisation/divisions/engineering.md)
@@ -55,6 +51,7 @@
 
 ## Technology
 
+* [Discord](technology/discord.md)
 * [Conex Access](technology/conex-access.md)
 * [Cybersecurity](technology/cybersecurity/README.md)
   * [Permission Matrix](technology/cybersecurity/permission-matrix.md)

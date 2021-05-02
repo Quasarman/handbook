@@ -2,9 +2,7 @@
 
 ## Overview
 
-The Board of Trustees is the collection of individuals that are responsible for leading and managing the organisation as part of our Charitable Incorporated Organisation structure. They are responsible for defining the long-term goals of the organisation, holding the leadership team accountable, and ensuring that everything we do aligns with the [Conex Values](../mission-and-values/).
-
-
+The Board of Trustees is the collection of individuals that are responsible for leading and managing the organisation as part of our Charitable Incorporated Organisation structure. They are responsible for defining the long-term goals of the organisation, holding the leadership team accountable, and ensuring that everything we do aligns with our [mission and values](../mission-and-values/).
 
 ## Contact Information
 
@@ -32,11 +30,13 @@ The Board of Trustees is the collection of individuals that are responsible for 
   </tbody>
 </table>
 
-## Responsible Individuals
+## Roles
 
-### Trustees
+### Trustee
 
 These are individuals selected to review decisions made by the organisation to ensure they comply with our constitution and align with our [mission & values](../mission-and-values/).
+
+#### Current Trustees
 
 <table>
   <thead>
@@ -63,8 +63,7 @@ These are individuals selected to review decisions made by the organisation to e
     <tr>
       <td style="text-align:left">
         <p>Trustee,</p>
-        <p><a href="operations-team.md#operations-director">Operations Director</a>
-        </p>
+        <p>Operations Director</p>
       </td>
       <td style="text-align:left">Jack Kent</td>
     </tr>
@@ -85,11 +84,11 @@ These are individuals selected to review decisions made by the organisation to e
   </tbody>
 </table>
 
-### Co-Executive Directors
+### Co-Executive Director
 
 The Co-Executive Directors lead the organisation, and are also the chairs of the Board of Trustees. They are responsible for supervising the organisation day-to-day, making final decisions, and have limited veto power over trustees as outlined in our constitution.
 
-**Reports to:** Board of Trustees
+**Report to:** Board of Trustees
 
 **Currently in role:** Christina Bornberg, James McKevitt
 

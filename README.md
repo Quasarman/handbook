@@ -6,23 +6,6 @@ We've created this handbook to give our team members all of the information they
 
 ## Editing the Handbook
 
-* About
-  * History
-  * Mission & Values
-  * Handbook
-* Remote Working
-  * Meetings
-  * Decision Making
-  * Google Workspace
-    * Drive
-    * Gmail
-  * Discord
-    * AutoDelete
-* Style & Standards
-  * Writing
-  * Inclusive Language
-  * Graphs & Charts
-
 1. Click the 'Edit on GitHub' button on the top right of the page.
 2. Click the pencil icon in the top right.
 3. Make your edits, use the 'Preview Changes' tab to check your markdown formatting.

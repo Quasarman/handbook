@@ -14,6 +14,10 @@ Capitalise each word in the filename.
 
 Use underscores instead of spaces. This keeps filenames consistent across operating systems/software.
 
+{% hint style="info" %}
+This does not apply to Google Docs files, as these exist only within Google Drive
+{% endhint %}
+
 ### Special Characters
 
 Don't use any of the following characters in filenames: ~ ! @ \# $ % ^ & \* \( \) \` : ; &lt; &gt; ? , \[ \] { } ‘ ” \|
@@ -29,7 +33,7 @@ Where possible, you should replace the existing version with the updated file to
 | Bad Example ❌ | Good Example ✔️ |
 | :--- | :--- |
 | New Simulation Variables.pdf | Simulation\_Variables\_v2.pdf |
-| 20/03/2021 Meetings Notes.txt | Meeting\_Notes\_2021\_03\_20.txt |
+| 20/03/2021 Meetings Notes.txt | Meeting\_Notes\_20-03-2021.txt |
 | pitch.pptx | ICL\_Society\_Pitch.pptx |
 
 

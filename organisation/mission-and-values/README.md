@@ -10,17 +10,17 @@ Making a mission statement is easy, but making sure that everything we do drives
 
 We want to create a working environment where everyone feels comfortable contributing, and we embrace remote-first working practices to allow everyone to be productive.
 
-How we'll achieve this:
+#### How we'll achieve this:
 
 * Utilise technology to provide a quality environment for remote collaboration.
 * Embrace asynchronous communication.
 * Make sure everyone has access to the information they need to be productive.
 
-## 👊🏽 Diversity & Inclusion 🏳🌈
+## 👊🏽 Diversity & Inclusion🌈
 
 We want to give everyone the oppurtunity to get involved with our work, and benefit from personal development. There's even [research ](https://hbr.org/2013/12/how-diversity-can-drive-innovation)to support that diverse teams are more innovative!
 
-How we'll achieve this:
+#### How we'll achieve this:
 
 * Attract participants from a variety of geographical locations and backgrounds.
 * Promote involvement from demographics [typically underrepresented in STEM](https://www.nsf.gov/statistics/2018/nsb20181/report/sections/science-and-engineering-labor-force/women-and-minorities-in-the-s-e-workforce#minorities-in-the-s-e-workforce).
@@ -30,18 +30,15 @@ How we'll achieve this:
 
 Being a non-profit means that we're obliged to be more transparent than most businesses, however, we want to go beyond the minimum requirements at Conex to be as transparent as possible. This isn't just beneficial to our own team members, but it helps other's learn about how to run a organisation like ours.
 
-Being open about our organisation in such detail may seem 'bad for business', but as Peter Drucker once said, "Strategy is a commodity, execution is an art". Conex isn't successfull from following a secret recipe, it's a result of **amazing people doing amazing things**.
+Being open about our organisation in such detail may seem 'bad for business', but as Peter Drucker once said, "Strategy is a commodity, execution is an art". Conex isn't successful from following a secret recipe, it's a result of **amazing people doing amazing things**.
 
-How we'll achieve this:
+#### How we'll achieve this:
 
 * Maintain public documentation, such as the Conex Handbook.
 * Be honest with team members, and involve them in decision making.
-* Ensure accountability is upheld at every level, and in every decision.
+* Ensure accountability is upheld at every level, in every decision.
 
-## The Five Dysfunctions
-
-We have our values outlined to help us prevent the [five dysfunctions](https://en.wikipedia.org/wiki/The_Five_Dysfunctions_of_a_Team#Summary) of a team:
-
-1. **Abscence of trust** - stops people from sharing new ideas and gaining confidence in their work. \(_Prevented by_ [_collaboration_](./#collaboration)\).
-2. **Fear of conflict** - 
+{% hint style="info" %}
+Read more about our transparency [here](transparency.md).
+{% endhint %}
 

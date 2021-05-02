@@ -1,5 +1,7 @@
 # Leadership Values
 
+## Introduction
+
 We expect all of those in a leadership position to uphold high moral, ethical, and professional standards. To guide our leadership values, we use the [Nolan Principles](https://www.gov.uk/government/publications/the-7-principles-of-public-life/the-7-principles-of-public-life--2), which establish the standards for those holding public office.
 
 ## Selflessness 👐

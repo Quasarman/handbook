@@ -1,5 +1,7 @@
 # Inclusive Language
 
+## Introduction
+
 We want everyone to feel welcome, and ensuring we use language properly is essential to making Conex a diverse and inclusive organisation.
 
 {% hint style="warning" %}
