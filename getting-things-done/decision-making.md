@@ -73,7 +73,7 @@ For some key decisions that could effect the entire organisation however, we hav
 
 ### Financial Decisions
 
-Any decisions relating to finance must be approved by the [Board of Trustees](../organisation/organisational-teams/board-of-trustees/), questions relating to finance however can be directed to the [Business & Marketing Team](../organisation/organisational-teams/business-and-marketing-team/).
+Any decisions relating to finance must be approved by the [Board of Trustees](../organisation/organisational-teams/board-of-trustees.md), questions relating to finance however can be directed to the [Business & Marketing Team](../organisation/organisational-teams/business-and-marketing-team/).
 
 Examples of financial decisions are:
 
@@ -93,7 +93,7 @@ Examples of press decisions are:
 
 ### Safety & Security
 
-Any decisions that would directly or indirectly impact the safety or security of our organisation, team, systems, or information must be approved by the [Operations Team](../organisation/organisational-teams/operations-team/) or [Board of Trustees](../organisation/organisational-teams/board-of-trustees/).
+Any decisions that would directly or indirectly impact the safety or security of our organisation, team, systems, or information must be approved by the [Operations Team](../organisation/organisational-teams/operations-team.md) or [Board of Trustees](../organisation/organisational-teams/board-of-trustees.md).
 
 Examples of Safety & Security decisions are:
 

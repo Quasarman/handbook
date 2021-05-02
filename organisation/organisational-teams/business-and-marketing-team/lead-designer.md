@@ -6,7 +6,7 @@
 
 **Responsible for**: Visualisation Team
 
-**Reports to:** [Co-Executive Directors](../board-of-trustees/co-executive-director.md)
+**Reports to:** [Co-Executive Directors]()
 
 ## Responsibilities
 

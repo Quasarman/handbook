@@ -4,7 +4,7 @@
 
 **Teams:** [Business & Marketing](./);
 
-**Reports to:** [Co-Executive Directors](../board-of-trustees/co-executive-director.md)
+**Reports to:** [Co-Executive Directors]()
 
 ## Responsibilities
 

@@ -36,10 +36,8 @@
 
 * [Mission & Values](organisation/mission-and-values.md)
 * [Organisational Teams](organisation/organisational-teams/README.md)
-  * [Board of Trustees](organisation/organisational-teams/board-of-trustees/README.md)
-    * [Co-Executive Director](organisation/organisational-teams/board-of-trustees/co-executive-director.md)
-  * [Operations Team](organisation/organisational-teams/operations-team/README.md)
-    * [Operations Director](organisation/organisational-teams/operations-team/operations-director.md)
+  * [Board of Trustees](organisation/organisational-teams/board-of-trustees.md)
+  * [Operations Team](organisation/organisational-teams/operations-team.md)
   * [Business & Media Team](organisation/organisational-teams/business-and-marketing-team/README.md)
     * [Lead Designer](organisation/organisational-teams/business-and-marketing-team/lead-designer.md)
     * [Business Development Lead](organisation/organisational-teams/business-and-marketing-team/business-development-lead.md)
@@ -58,5 +56,6 @@
 
 * [Conex Access](technology/conex-access.md)
 * [Cybersecurity](technology/cybersecurity/README.md)
+  * [Permission Matrix](technology/cybersecurity/permission-matrix.md)
   * [Phising](technology/cybersecurity/phising.md)
 

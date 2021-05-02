@@ -112,7 +112,7 @@ GDPR stipulates our organisation must appoint a Data Protection Officer. It is o
 * Carry out regular checks, audits and scans to ensure security hardware and security software are fully functional and optimised to manage and mitigate data security risks.
 
 {% hint style="info" %}
-Conex's Data Protection Officer is the [Operations Director](../../../organisation/organisational-teams/operations-team/operations-director.md)
+Conex's Data Protection Officer is the [Operations Director]()
 {% endhint %}
 
 ### Marketing Manager
