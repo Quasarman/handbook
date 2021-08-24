@@ -29,10 +29,12 @@ Everyone makes typos and errors, but if you spot one please make sure to correct
 {% hint style="info" %}
 Have a question?
 
-Email us at[ press@conexresearch.com](mailto:press@conexresearch.com)
+Email[ press@conexresearch.com](mailto:press@conexresearch.com)
 {% endhint %}
 
 | Date | Version | Author | Comments |
 | :--- | :--- | :--- | :--- |
 | 10/03/2021 | 1.0 | Jack Kent | Initial version of Social Medial Policy published. |
+
+
 

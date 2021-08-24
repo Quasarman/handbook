@@ -13,7 +13,7 @@ There's two main reasons why we might use the AutoDelete bot in a channel either
 
 ### Emergency stop!
 
-In some rare circumstances, you might need to stop the AutoDelete bot form deleting messages for an important reason. If this is the case, tag [@Operations](../organisation/organisational-teams/operations-team.md) in the channel and they can temporarily stop the bot while they are preserved correctly.
+In some rare circumstances, you might need to stop the AutoDelete bot form deleting messages for an important reason. If this is the case, tag [@Operations](../organisation/org-structure/operations-team.md) in the channel and they can temporarily stop the bot while they are preserved correctly.
 
 This should be a last resort however, content of messages should be appropriately documented.
 

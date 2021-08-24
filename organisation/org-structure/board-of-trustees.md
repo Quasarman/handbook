@@ -84,11 +84,5 @@ These are individuals selected to review decisions made by the organisation to e
   </tbody>
 </table>
 
-### Co-Executive Director
-
-The Co-Executive Directors lead the organisation, and are also the chairs of the Board of Trustees. They are responsible for supervising the organisation day-to-day, making final decisions, and have limited veto power over trustees as outlined in our constitution.
-
-**Report to:** Board of Trustees
-
-**Currently in role:** Christina Bornberg, James McKevitt
+### 
 

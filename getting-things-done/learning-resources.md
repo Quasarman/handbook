@@ -6,13 +6,13 @@ Learn how to master Google's suite of productivity tools and remote working tool
 
 ### How to access
 
-1. Go to [g.co/AppliedDigitalSkills](https://applieddigitalskills.withgoogle.com/)
-2. Click '**Sign in**' in the top right
-3. Sign in with your Google account, or create a new one
-4. Click '**I am a student/learner**'
-5. Click '**Join a class**' and enter one of the class codes below \(in brackets\)
+1. Go to [g.co/AppliedDigitalSkills](https://applieddigitalskills.withgoogle.com/).
+2. Click '**Sign in**' in the top right.
+3. Sign in with your Conex Google account.
+4. Click '**I am a student/learner**'.
+5. Click '**Join a class**' and enter one of the class codes below \(in brackets\).
 
-### Available learning
+### Our recommendations
 
 * **Using Google Workspace** \(3kxv6z\) - Learn how to use productivity tools such as Google Drive, Docs, Slides, Sheets, and Google Meet.
 * **Remote Working with Google** \(xy2rwv\) - Get some tips from Google on how to work remotely.
@@ -23,7 +23,7 @@ Learn for free about math, art, computer programming, economics, physics, chemis
 
 ### How to access
 
-Just visit [khanacademy.org](https://www.khanacademy.org), no login required.
+Visit [khanacademy.org](https://www.khanacademy.org).
 
 ### Our recommendations
 
@@ -39,7 +39,7 @@ Learning material and articles on a wide variety of topics, from engineering to 
 
 ### How to access
 
-Just visit [nasa.gov/stem](https://www.nasa.gov/stem), no login required.
+Visit [nasa.gov/stem](https://www.nasa.gov/stem).
 
 ### Our recommendations
 
@@ -53,7 +53,7 @@ Check out some of the free courses provided by the Open University, who've been 
 
 ### How to access
 
-Just visit the [Open University website](https://www.open.edu/openlearn/free-courses/full-catalogue), no login required.
+Visit the [Open University website](https://www.open.edu/openlearn/free-courses/full-catalogue).
 
 ### Our Recommendations
 

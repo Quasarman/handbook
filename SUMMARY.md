@@ -34,12 +34,11 @@
 ## Organisation
 
 * [Mission & Values](organisation/mission-and-values/README.md)
-  * [Transparency](organisation/mission-and-values/transparency.md)
   * [Leadership Values](organisation/mission-and-values/leadership-values.md)
-* [Organisational Teams](organisation/organisational-teams/README.md)
-  * [Board of Trustees](organisation/organisational-teams/board-of-trustees.md)
-  * [Operations Team](organisation/organisational-teams/operations-team.md)
-  * [Business & Media Team](organisation/organisational-teams/business-and-marketing-team.md)
+* [Organisational Structure](organisation/org-structure/README.md)
+  * [Board of Trustees](organisation/org-structure/board-of-trustees.md)
+  * [Operations Team](organisation/org-structure/operations-team.md)
+  * [Business & Media Team](organisation/org-structure/business-and-marketing-team.md)
 * [Research Divisions](organisation/divisions/README.md)
   * [Digital Systems Division](organisation/divisions/digital-systems.md)
   * [Engineering Division](organisation/divisions/engineering.md)

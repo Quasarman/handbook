@@ -36,14 +36,13 @@ _Please note, the amber 'External' marker may still be shown on legitimate email
 Email [ops@conexresearch.com](mailto:ops@conexresearch.com) if you need help checking a sender.
 {% endhint %}
 
-| Sender | Email Domains |
+| Sender | Email Domain\(s\) |
 | :--- | :--- |
 | **Conex Research** | **conexresearch.com** |
 | Cloudflare | cloudflare.com |
 | Eventbrite | eventbrite.com |
 | Google | google.com |
 | Jotform | jotform.com |
-| SendGrid | sendgrid.com |
 
 ### Example Phising Email
 

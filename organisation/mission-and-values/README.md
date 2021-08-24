@@ -2,43 +2,43 @@
 
 ## Introduction
 
-Our official mission statement, as outlined in our Chartitable Incorporated Organisation \(CIO\) constitution, is **"To advance the education and personal development of early career professionals through engagement in academic research in the space field"**.
+Our official mission statement, as outlined in our Charitable Incorporated Organisation \(CIO\) constitution, is **"To advance the education and personal development of early career professionals through engagement in academic research in the space field"**.
 
-Making a mission statement is easy, but making sure that everything we do drives us closer to achieving that mission is much harder. We've established three principle values to help guide us in our mission:
+Making a mission statement is easy, but making sure that everything we do helps us achieve that mission is harder. We've established three principle values to help guide us:
 
 ## 🤝 Collaboration 🤝
 
-We want to create a working environment where everyone feels comfortable contributing, and we embrace remote-first working practices to allow everyone to be productive.
+We'll create a working environment where everyone can contribute.
 
 #### How we'll achieve this:
 
-* Utilise technology to provide a quality environment for remote collaboration.
-* Embrace asynchronous communication.
-* Make sure everyone has access to the information they need to be productive.
+* Provide a quality digital environment for remote collaboration.
+* Embrace asynchronous communication and remote working best practices.
+* Ensure everyone has access to the resources they need to be work effectively.
 
 ## 👊🏽 Diversity & Inclusion🌈
 
-We want to give everyone the oppurtunity to get involved with our work, and benefit from personal development. There's even [research ](https://hbr.org/2013/12/how-diversity-can-drive-innovation)to support that diverse teams are more innovative!
+We want everyone to engage and grow with Conex, embracing individual differences.
 
 #### How we'll achieve this:
 
 * Attract participants from a variety of geographical locations and backgrounds.
-* Promote involvement from demographics [typically underrepresented in STEM](https://www.nsf.gov/statistics/2018/nsb20181/report/sections/science-and-engineering-labor-force/women-and-minorities-in-the-s-e-workforce#minorities-in-the-s-e-workforce).
+* Remove barriers to entry for demographics [typically underrepresented in STEM](https://www.nsf.gov/statistics/2018/nsb20181/report/sections/science-and-engineering-labor-force/women-and-minorities-in-the-s-e-workforce#minorities-in-the-s-e-workforce).
 * Enforce strict Bullying & Harassment policies.
 
 ## 🔍 Transparency 🔎
 
-Being a non-profit means that we're obliged to be more transparent than most businesses, however, we want to go beyond the minimum requirements at Conex to be as transparent as possible. This isn't just beneficial to our own team members, but it helps other's learn about how to run a organisation like ours.
-
-Being open about our organisation in such detail may seem 'bad for business', but as Peter Drucker once said, "Strategy is a commodity, execution is an art". Conex isn't successful from following a secret recipe, it's a result of **amazing people doing amazing things**.
+We'll be honest and upfront about our processes and the decisions we make.
 
 #### How we'll achieve this:
 
-* Maintain public documentation, such as the Conex Handbook.
+* Docuement our processes and policies in this handbook.
 * Be honest with team members, and involve them in decision making.
 * Ensure accountability is upheld at every level, in every decision.
 
 {% hint style="info" %}
-Read more about our transparency [here](transparency.md).
+Read more about our leadership values [here]().
 {% endhint %}
+
+
 

@@ -22,7 +22,7 @@ Leaders must be able to be held accountable for their actions and decisions.
 
 ## Openness 🔎
 
-Leaders must act and make decisions in an open and transparent matter. \(See [transparency](transparency.md)\).
+Leaders must act and make decisions in an open and transparent matter.
 
 ## Honesty 🙋♂
 
